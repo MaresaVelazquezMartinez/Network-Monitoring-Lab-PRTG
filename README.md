@@ -31,6 +31,7 @@ Successful ping replies confirmed proper Layer 3 connectivity.
 # PRTG Installation & Configuration
 PRTG Network Monitor was installed on the Windows Server 2022 VM
 The PRTG web interface was accessed via the server’s IP address in a browser
+
 ![Start](images/openprtg.png)
 
 The dashboard provided visibility into:
