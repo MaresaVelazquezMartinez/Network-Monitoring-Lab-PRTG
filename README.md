@@ -1,5 +1,10 @@
 # Network-Monitoring-Lab-PRTG with Windows Server & Ubuntu
-
+# Current Scope & Future Expansion
+This lab focuses on validating core network connectivity and basic host availability monitoring using an ICMP (Ping) sensor.
+While only a single monitored device and sensor were used in this initial phase, the environment was intentionally designed to support future expansion. Planned improvements include adding additional devices, multiple sensor types, and more advanced monitoring and alerting configurations.
+This project serves as a foundational monitoring lab and will be expanded as additional network services and hosts are introduced.
+---
+ 
 This lab demonstrates basic network connectivity, monitoring, and fault detection using PRTG Network Monitor in a virtualized environment.
 The setup consists of two virtual machines running on Oracle VirtualBox:
 - Windows Server 2022 (PRTG monitoring server)
